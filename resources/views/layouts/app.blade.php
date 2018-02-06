@@ -19,6 +19,7 @@
     <link href="{{asset('css/plugins/remodal.min.css')}}" rel="stylesheet" >
     <link href="{{asset('css/plugins/animate.css')}}" rel="stylesheet">
     <link href="{{asset('css/main-style.css')}}" rel="stylesheet">
+    <link href="{{asset('css/custom.css')}}" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="{{asset('js/html5shiv.min.js')}}"></script>

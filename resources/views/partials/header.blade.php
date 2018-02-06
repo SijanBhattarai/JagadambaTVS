@@ -111,10 +111,10 @@
                     <li><a href="https://www.linkedin.com"><i class="icon-linkedin-logo"></i></a></li>
                 </ul>
             </div>
-            <div class="phone_block">
-                <span><i class="icon-telephone"></i> 1-800-123-4567</span>
-                <small>Our Reservation Specialists 24/7</small>
-            </div>
+            {{--<div class="phone_block">--}}
+                {{--<span><i class="icon-telephone"></i> 1-800-123-4567</span>--}}
+                {{--<small>Our Reservation Specialists 24/7</small>--}}
+            {{--</div>--}}
         </div>
     </div>
     <div class="header-navigation-wrap stickUp">
