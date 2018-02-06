@@ -319,84 +319,84 @@
         <a href="services.html" class="btn">MORE SERVICES</a>
     </section>
 
-    <section class="testimonials-carousel_box">
-        <div class="container">
-            <h1>Clients Say</h1>
-            <span class="text-link">What our clients say about us</span>
-            <div class="swiper-container-blockquote swiper-container">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <article class="block_tesimonial">
-                            <blockquote>
-                                <div class="inner_blockquote">
-                                    <div class="wrapper">
-                                        <p>I was very pleased once again. Hiring online was easy, collection was straight forward, and returning the bikewas quick. A very good experience! Thank you.</p>
-                                        <span class="author_info">
-												<img src="images/author_img.png" alt="">
-												<span class="name"><a href="#">Thomas Burgess</a></span>
-												<span class="position">Regular Customer</span>
-											</span>
-                                    </div>
-                                </div>
-                            </blockquote>
-                        </article>
-                    </div>
-                    <div class="swiper-slide">
-                        <article class="block_tesimonial">
-                            <blockquote>
-                                <div class="inner_blockquote">
-                                    <div class="wrapper">
-                                        <p>This is the second time this year that I have rented a Rental Cars direct vehicle and the cars were both virtually brand new. Awesome cars and very kind, helpful staff. Thank you!</p>
-                                        <span class="author_info">
-												<img src="assets/images/author_img_1.png" alt="">
-												<span class="name"><a href="#">Donald Alford</a></span>
-												<span class="position">Regular Customer</span>
-											</span>
-                                    </div>
-                                </div>
-                            </blockquote>
+    {{--<section class="testimonials-carousel_box">--}}
+        {{--<div class="container">--}}
+            {{--<h1>Clients Say</h1>--}}
+            {{--<span class="text-link">What our clients say about us</span>--}}
+            {{--<div class="swiper-container-blockquote swiper-container">--}}
+                {{--<div class="swiper-wrapper">--}}
+                    {{--<div class="swiper-slide">--}}
+                        {{--<article class="block_tesimonial">--}}
+                            {{--<blockquote>--}}
+                                {{--<div class="inner_blockquote">--}}
+                                    {{--<div class="wrapper">--}}
+                                        {{--<p>I was very pleased once again. Hiring online was easy, collection was straight forward, and returning the bikewas quick. A very good experience! Thank you.</p>--}}
+                                        {{--<span class="author_info">--}}
+												{{--<img src="images/author_img.png" alt="">--}}
+												{{--<span class="name"><a href="#">Thomas Burgess</a></span>--}}
+												{{--<span class="position">Regular Customer</span>--}}
+											{{--</span>--}}
+                                    {{--</div>--}}
+                                {{--</div>--}}
+                            {{--</blockquote>--}}
+                        {{--</article>--}}
+                    {{--</div>--}}
+                    {{--<div class="swiper-slide">--}}
+                        {{--<article class="block_tesimonial">--}}
+                            {{--<blockquote>--}}
+                                {{--<div class="inner_blockquote">--}}
+                                    {{--<div class="wrapper">--}}
+                                        {{--<p>This is the second time this year that I have rented a Rental Cars direct vehicle and the cars were both virtually brand new. Awesome cars and very kind, helpful staff. Thank you!</p>--}}
+                                        {{--<span class="author_info">--}}
+												{{--<img src="assets/images/author_img_1.png" alt="">--}}
+												{{--<span class="name"><a href="#">Donald Alford</a></span>--}}
+												{{--<span class="position">Regular Customer</span>--}}
+											{{--</span>--}}
+                                    {{--</div>--}}
+                                {{--</div>--}}
+                            {{--</blockquote>--}}
 
-                        </article>
-                    </div>
-                    <div class="swiper-slide">
-                        <article class="block_tesimonial">
-                            <blockquote>
-                                <div class="inner_blockquote">
-                                    <div class="wrapper">
-                                        <p>Great Service, Absolutely Terrific staff, extremely professional!!! This was my first ever BIKE Renting experience, Awesome!!</p>
-                                        <span class="author_info">
-												<img src="assets/images/author_img_2.png" alt="">
-												<span class="name"><a href="#">James Knudsen</a></span>
-												<span class="position">Regular Customer</span>
-											</span>
-                                    </div>
-                                </div>
-                            </blockquote>
-                        </article>
-                    </div>
-                    <div class="swiper-slide">
-                        <article class="block_tesimonial">
-                            <blockquote>
-                                <div class="inner_blockquote">
-                                    <div class="wrapper">
-                                        <p>Im really impressed with your staff at all moosa branch, patricia. She has sevice minded, be attentive, proactive. I think you have a very value staff with you.</p>
-                                        <span class="author_info">
-												<img src="assets/images/author_img_3.png" alt="">
-												<span class="name"><a href="#">Bruce Justice</a></span>
-												<span class="position">Regular Customer</span>
-											</span>
-                                    </div>
-                                </div>
-                            </blockquote>
-                        </article>
-                    </div>
-                </div>
-            </div>
-            <div class="swiper-pagination swiper-pagination-blockquote"></div>
-            <span class="swiper-button-next1"><i class="icon-left-arrow2"></i></span>
-            <span class="swiper-button-prev1"><i class="icon-left-arrow"></i></span>
-        </div>
-    </section>
+                        {{--</article>--}}
+                    {{--</div>--}}
+                    {{--<div class="swiper-slide">--}}
+                        {{--<article class="block_tesimonial">--}}
+                            {{--<blockquote>--}}
+                                {{--<div class="inner_blockquote">--}}
+                                    {{--<div class="wrapper">--}}
+                                        {{--<p>Great Service, Absolutely Terrific staff, extremely professional!!! This was my first ever BIKE Renting experience, Awesome!!</p>--}}
+                                        {{--<span class="author_info">--}}
+												{{--<img src="assets/images/author_img_2.png" alt="">--}}
+												{{--<span class="name"><a href="#">James Knudsen</a></span>--}}
+												{{--<span class="position">Regular Customer</span>--}}
+											{{--</span>--}}
+                                    {{--</div>--}}
+                                {{--</div>--}}
+                            {{--</blockquote>--}}
+                        {{--</article>--}}
+                    {{--</div>--}}
+                    {{--<div class="swiper-slide">--}}
+                        {{--<article class="block_tesimonial">--}}
+                            {{--<blockquote>--}}
+                                {{--<div class="inner_blockquote">--}}
+                                    {{--<div class="wrapper">--}}
+                                        {{--<p>Im really impressed with your staff at all moosa branch, patricia. She has sevice minded, be attentive, proactive. I think you have a very value staff with you.</p>--}}
+                                        {{--<span class="author_info">--}}
+												{{--<img src="assets/images/author_img_3.png" alt="">--}}
+												{{--<span class="name"><a href="#">Bruce Justice</a></span>--}}
+												{{--<span class="position">Regular Customer</span>--}}
+											{{--</span>--}}
+                                    {{--</div>--}}
+                                {{--</div>--}}
+                            {{--</blockquote>--}}
+                        {{--</article>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+            {{--<div class="swiper-pagination swiper-pagination-blockquote"></div>--}}
+            {{--<span class="swiper-button-next1"><i class="icon-left-arrow2"></i></span>--}}
+            {{--<span class="swiper-button-prev1"><i class="icon-left-arrow"></i></span>--}}
+        {{--</div>--}}
+    {{--</section>--}}
     <section class="blog-posts-carousel">
         <div class="container">
             <h1>From the Blog</h1>
