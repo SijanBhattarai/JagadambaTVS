@@ -7122,6 +7122,7 @@ Skin Name: Nivo Slider Default Theme
 
 .parallax_box h1 {
   margin-bottom: 46px;
+  margin-top:-350px;
 }
 
 .parallax_box ul.list__marker {

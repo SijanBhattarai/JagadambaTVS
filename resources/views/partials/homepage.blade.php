@@ -19,8 +19,8 @@
         {{--<div id="htmlcaption2" class="nivo-caption">--}}
             {{--<div class="nivo-caption__inner left-side">--}}
                 {{--<div class="text">--}}
-                    {{--<h1 class="showtext showtext__h1">Treat Yourself:<br> Book a Luxury<br> Car Rental</h1>--}}
-                    {{--<span class="showtext showtext__link"><a href="#">Luxury Car Rental &amp; Chauffeured Cars</a></span>--}}
+                    {{--<h1 class="showtext showtext__h1">Treat Yourself:<br> Book a Luxury<br> BIKE Rental</h1>--}}
+                    {{--<span class="showtext showtext__link"><a href="#">Luxury BIKE Rental &amp; Chauffeured Cars</a></span>--}}
                 {{--</div>--}}
             {{--</div>--}}
         {{--</div>--}}
@@ -28,7 +28,7 @@
             {{--<div class="nivo-caption__inner">--}}
                 {{--<div class="text">--}}
                     {{--<h1 class="showtext showtext__h1">Pick up your<br> Luxury Car<br>  Rental for less!</h1>--}}
-                    {{--<span class="showtext showtext__link"><a href="#">Rent a Car and Save Up to 50%</a></span>--}}
+                    {{--<span class="showtext showtext__link"><a href="#">Rent a BIKE and Save Up to 50%</a></span>--}}
                 {{--</div>--}}
             {{--</div>--}}
         {{--</div>--}}
@@ -125,13 +125,14 @@
         </div>
     </div>
     <div class="parallax_box">
-        <figure class="thumbnail move_img wow slideInLeft" data-wow-delay="0.5s"></figure>
+        <img src="images/thumb1.png" alt="">
+
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-lg-6 col-lg-push-6">
                     <h1>Welcome</h1>
-                    <p>Hiring a car just got easier with the reliable service of Car Rental Service! Having covered all the 50 states in America, we offer the finest choice of vehicles ranging from economy to luxury.</p>
-                    <p>We have tied up with renowned car rental brands so that we can provide our customers with the most economic car rental deals along with world class customer service. </p>
+                    <p>Hiring a bikejust got easier with the reliable service of BIKE Rental Service! Having covered all the 50 states in America, we offer the finest choice of vehicles ranging from economy to luxury.</p>
+                    <p>We have tied up with renowned bikerental brands so that we can provide our customers with the most economic bikerental deals along with world class customer service. </p>
                     <ul class="list__marker">
                         <li>Best price guarantee</li>
                         <li>No cancellation or amendment fees</li>
@@ -200,65 +201,64 @@
     <section class="carousel-models_fullwidth">
         <div class="carousel-models_fullwidth__inner">
             <h1>Our Fleet</h1>
-            <span class="text-link">Great Rental Car Selection. Unbeatable Deals.</span>
+            <span class="text-link">Great Rental BIKE Selection. Unbeatable Deals.</span>
             <div class="swiper-container-models swiper-container">
                 <div class="swiper-wrapper">
                     <div class="model-info swiper-slide">
-                        <figure class="thumbnail"><a href="details.html"><img src="assets/images/car_2.png" alt=""></a></figure>
+                        <figure class="thumbnail"><a href="details.html"><img src="images/thumb4.png" alt=""></a></figure>
                         <div class="model-info__content">
-                            <h3>Porsche 911 Carrera S</h3>
-                            <p>To be clear, the Santa Fe Sport is a 5-passenger SUV with two rows of seating, but I am testing the regular Santa Fe that is larger and has three rows of seating.</p>
+                            <h3>TVS APACHE RTR</h3>
+                            <p>To be clear, TVS APACHE RTR is a 2-passenger SUV with two rows of seating, but I am testing the regular Santa Fe that is larger and has three rows of seating.</p>
                             <span class="cost">From <strong>230$</strong> per day</span>
                             <span class="btn btn-model" data-remodal-target="modal">book now</span>
                         </div>
                     </div>
                     <div class="model-info swiper-slide">
-                        <figure class="thumbnail"><a href="details.html"><img src="assets/images/car_1.png" alt=""></a></figure>
+                        <figure class="thumbnail"><a href="details.html"><img src="images/thumb4.png" alt=""></a></figure>
                         <div class="model-info__content">
-                            <h3>Hyundai Santa Fe</h3>
-                            <p>To be clear, the Santa Fe Sport is a 5-passenger SUV with two rows of seating, but I am testing the regular Santa Fe that is larger and has three rows of seating.</p>
+                            <h3>TVS APACHE RTR
+                            <p>To be clear, TVS APACHE RTR is a 2-passenger SUV with two rows of seating, but I am testing the regular Santa Fe that is larger and has three rows of seating.</p>
                             <span class="cost">From <strong>120$</strong> per day</span>
                             <span class="btn btn-model" data-remodal-target="modal">book now</span>
                         </div>
                     </div>
                     <div class="model-info swiper-slide">
-                        <figure class="thumbnail"><a href="details.html"><img src="assets/images/car_4.png" alt=""></a></figure>
+                        <figure class="thumbnail"><a href="details.html"><img src="images/thumb4.png" alt=""></a></figure>
                         <div class="model-info__content">
-                            <h3>Hyundai i30</h3>
-                            <p>The series II Hyundai i30 is packed with so many individual and unique features we think it could be more you than any other small car.</p>
+                            TVS APACHE RTR<p>The TVS APACHE RTR is packed with so many individual and unique features we think it could be more you than any other small car.</p>
                             <span class="cost">From <strong>115$</strong> per day</span>
                             <span class="btn btn-model" data-remodal-target="modal">book now</span>
                         </div>
                     </div>
                     <div class="model-info swiper-slide">
-                        <figure class="thumbnail"><a href="details.html"><img src="assets/images/car_3.png" alt=""></a></figure>
+                        <figure class="thumbnail"><a href="details.html"><img src="images/thumb4.png" alt=""></a></figure>
                         <div class="model-info__content">
-                            <h3>Mercedes-Benz Metris Passenger Van </h3>
-                            <p>To be clear, the Santa Fe Sport is a 5-passenger SUV with two rows of seating, but I am testing the regular Santa Fe that is larger and has three rows of seating.</p>
+                            <h3>TVS APACHE RTRPassenger Van </h3>
+                            <p>To be clear, TVS APACHE RTR is a 2-passenger SUV with two rows of seating, but I am testing the regular Santa Fe that is larger and has three rows of seating.</p>
                             <span class="cost">From <strong>100$</strong> per day</span>
                             <span class="btn btn-model" data-remodal-target="modal">book now</span>
                         </div>
                     </div>
                     <div class="model-info swiper-slide swiper-slide-active">
-                        <figure class="thumbnail"><a href="details.html"><img src="assets/images/car_1.png" alt=""></a></figure>
+                        <figure class="thumbnail"><a href="details.html"><img src="images/thumb4.png" alt=""></a></figure>
                         <div class="model-info__content">
-                            <h3>Hyundai Santa Fe</h3>
-                            <p>To be clear, the Santa Fe Sport is a 5-passenger SUV with two rows of seating, but I am testing the regular Santa Fe that is larger and has three rows of seating.</p>
+                            <h3>TVS APACHE RTR
+                            <p>To be clear, TVS APACHE RTR is a 2-passenger SUV with two rows of seating, but I am testing the regular Santa Fe that is larger and has three rows of seating.</p>
                             <span class="cost">From <strong>120$</strong> per day</span>
                             <span class="btn btn-model" data-remodal-target="modal">book now</span>
                         </div>
 
                     </div>
                     <div class="model-info swiper-slide">
-                        <figure class="thumbnail"><a href="details.html"><img src="assets/images/car_4.png" alt=""></a></figure>
+                        <figure class="thumbnail"><a href="details.html"><img src="images/thumb4.png" alt=""></a></figure>
                         <div class="model-info__content">
-                            <h3>Porsche 911 Carrera S</h3>
-                            <p>To be clear, the Santa Fe Sport is a 5-passenger SUV with two rows of seating, but I am testing the regular Santa Fe that is larger and has three rows of seating.</p>
+                            <h3>TVS APACHE RTR</h3>
+                            <p>To be clear, TVS APACHE RTR is a 2-passenger SUV with two rows of seating, but I am testing the regular Santa Fe that is larger and has three rows of seating.</p>
                             <span class="cost">From <strong>230$</strong> per day</span>
                             <span class="btn btn-model" data-remodal-target="modal">book now</span>
                         </div>
                     </div>
-                </div><!-- // swiper-container-car  -->
+                </div><!-- // swiper-container-bike -->
             </div>
             <div class="swiper-pagination-models"></div>
             <div class="navigation_block">
@@ -270,14 +270,14 @@
 
     <section class="service-info-box">
         <h1>Featured Services</h1>
-        <span class="text-link">More than just a car rental company</span>
+        <span class="text-link">More than just a  rental company</span>
         <div class="swiper-container-column swiper-container-column-first swiper-container">
             <div class="swiper-wrapper">
                 <div class="swiper-slide odd-line">
                     <div class="service-block">
-                        <figure class="thumbnail"><a href="services-post.html"><img src="assets/images/service_img_1.jpg" alt=""></a></figure>
+                        <figure class="thumbnail"><a href="services-post.html"><img src="images/thumb1.png" alt=""></a></figure>
                         <div class="service-block__content">
-                            <h3>24 Hour Airport Services</h3>
+                            <h3>TVS APACHE RTRces</h3>
                             <p>The best and biggest airport transfer company in the city, Airport Transfers is here to provide you with the best one-stop transportation service with minimal fuss and maximum comfort.</p>
                             <a href="services-post.html" class="btn btn__marker"><i class="icon-arrows"></i></a>
                         </div>
@@ -285,7 +285,7 @@
                 </div>
                 <div class="swiper-slide even-line">
                     <div class="service-block">
-                        <figure class="thumbnail"><a href="services-post.html"><img src="assets/images/service_img_2.jpg" alt=""></a></figure>
+                        <figure class="thumbnail"><a href="services-post.html"><img src="images/thumb1.png" alt=""></a></figure>
                         <div class="service-block__content">
                             <h3 >Corporate Meetings &amp; Events</h3>
                             <p>Does your company have employees or clients who frequently rent in the Los Angeles area? Setting up a corporate account allowsus to pre-deliver vehicles to hotels, offices, residences.</p>
@@ -295,7 +295,7 @@
                 </div>
                 <div class="swiper-slide odd-line">
                     <div class="service-block">
-                        <figure class="thumbnail"><a href="services-post.html"><img src="assets/images/service_img_3.jpg" alt=""></a></figure>
+                        <figure class="thumbnail"><a href="services-post.html"><img src="images/thumb1.png" alt=""></a></figure>
                         <div class="service-block__content">
                             <h3>Business Travel</h3>
                             <p>We offer professional drivers who can chauffeur you to any destination you choose. Or ask for a type of tour or drive you are in the mood for and let us do the rest. </p>
@@ -305,10 +305,10 @@
                 </div>
                 <div class="swiper-slide even-line">
                     <div class="service-block">
-                        <figure class="thumbnail"><a href="services-post.html"><img src="assets/images/service_img_4.jpg" alt=""></a></figure>
+                        <figure class="thumbnail"><a href="services-post.html"><img src="images/thumb1.png" alt=""></a></figure>
                         <div class="service-block__content">
                             <h3>Private Tours</h3>
-                            <p>Huge discounts. Free Delivery and Pickup. Free Car washes. Free upgrades. Free maintenance.  We offer amazing deals on car rental rates. Give us a call we make it easy and affordable.</p>
+                            <p>Huge discounts. Free Delivery and Pickup. Free BIKE washes. Free upgrades. Free maintenance.  We offer amazing deals on bikerental rates. Give us a call we make it easy and affordable.</p>
                             <a href="services-post.html" class="btn btn__marker"><i class="icon-arrows"></i></a>
                         </div>
                     </div>
@@ -330,9 +330,9 @@
                             <blockquote>
                                 <div class="inner_blockquote">
                                     <div class="wrapper">
-                                        <p>I was very pleased once again. Hiring online was easy, collection was straight forward, and returning the car was quick. A very good experience! Thank you.</p>
+                                        <p>I was very pleased once again. Hiring online was easy, collection was straight forward, and returning the bikewas quick. A very good experience! Thank you.</p>
                                         <span class="author_info">
-												<img src="assets/images/author_img.png" alt="">
+												<img src="images/author_img.png" alt="">
 												<span class="name"><a href="#">Thomas Burgess</a></span>
 												<span class="position">Regular Customer</span>
 											</span>
@@ -363,7 +363,7 @@
                             <blockquote>
                                 <div class="inner_blockquote">
                                     <div class="wrapper">
-                                        <p>Great Service, Absolutely Terrific staff, extremely professional!!! This was my first ever Car Renting experience, Awesome!!</p>
+                                        <p>Great Service, Absolutely Terrific staff, extremely professional!!! This was my first ever BIKE Renting experience, Awesome!!</p>
                                         <span class="author_info">
 												<img src="assets/images/author_img_2.png" alt="">
 												<span class="name"><a href="#">James Knudsen</a></span>
@@ -406,7 +406,7 @@
                     <div class="swiper-slide post-item">
                         <div class="post-item__inner">
                             <figure class="thumbnail">
-                                <img src="assets/images/item_img-1.jpg" alt="">
+                                <img src="images/thumb3.png" alt="">
                             </figure>
                             <div class="post-item__content">
                                 <span class="date">10 February, 2017</span>
@@ -418,7 +418,7 @@
                     <div class="swiper-slide post-item">
                         <div class="post-item__inner">
                             <figure class="thumbnail">
-                                <img src="assets/images/item_img-2.jpg" alt="">
+                                <img src="images/thumb3.png" alt="">
                             </figure>
                             <div class="post-item__content">
                                 <span class="date">11 February, 2017</span>
@@ -430,7 +430,7 @@
                     <div class="swiper-slide post-item">
                         <div class="post-item__inner">
                             <figure class="thumbnail">
-                                <img src="assets/images/item_img-3.jpg" alt="">
+                                <img src="images/thumb3.png" alt="">
                             </figure>
                             <div class="post-item__content">
                                 <span class="date">12 February, 2017</span>
@@ -442,7 +442,7 @@
                     <div class="swiper-slide post-item">
                         <div class="post-item__inner">
                             <figure class="thumbnail">
-                                <img src="assets/images/item_img-1.jpg" alt="">
+                                <img src="images/thumb3.png" alt="">
                             </figure>
                             <div class="post-item__content">
                                 <span class="date">10 February, 2017</span>
@@ -454,7 +454,7 @@
                     <div class="swiper-slide post-item">
                         <div class="post-item__inner">
                             <figure class="thumbnail">
-                                <img src="assets/images/item_img-2.jpg" alt="">
+                                <img src="images/thumb3.png" alt="">
                             </figure>
                             <div class="post-item__content">
                                 <span class="date">11 February, 2017</span>
@@ -466,7 +466,7 @@
                     <div class="swiper-slide post-item">
                         <div class="post-item__inner">
                             <figure class="thumbnail">
-                                <img src="assets/images/item_img-3.jpg" alt="">
+                                <img src="images/thumb3.png" alt="">
                             </figure>
                             <div class="post-item__content">
                                 <span class="date">12 February, 2017</span>
@@ -486,8 +486,8 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="phone-box wow zoomIn">
-                    <h1>Join Us and Save on Car Rentals!</h1>
-                    <span class="text-link">Great offers for cheap car rental, daily, weekly long term rentals</span>
+                    <h1>Join Us and Save on BIKE Rentals!</h1>
+                    <span class="text-link">Great offers for cheap bikerental, daily, weekly long term rentals</span>
                     <h3 class="phone-box__number">Call Now: <span><i class="icon-telephone"></i> 1-800-123-4567</span></h3>
                 </div>
             </div>
@@ -496,31 +496,31 @@
     <section class="car-info-box" data-wow-duration="1s" data-wow-delay="1s">
         <div class="car-info-box__description">
             <div class="desc-inner">
-                <h1>Car Hire</h1>
+                <h1>BIKE Hire</h1>
                 <span class="text-link">Search for the best deals on rental cars</span>
-                <p>Find cheap car hire fast and hit the road happy with Rental Cars. Search the world’s top car hire companies. Instantly compare prices. Then book direct with the car rental company of your choice. It’s so easy.  We search thousands of destinations and compare thousands of car hire deals to help you find your perfect drive at a low price. </p>
+                <p>Find cheap bikehire fast and hit the road happy with Rental Cars. Search the world’s top bikehire companies. Instantly compare prices. Then book direct with the bikerental company of your choice. It’s so easy.  We search thousands of destinations and compare thousands of bikehire deals to help you find your perfect drive at a low price. </p>
             </div>
         </div>
         <figure class="car-info-box__thumb has-second-img">
-            <img src="assets/images/car_hire.jpg" alt="" class="first-fade">
-            <img src="assets/images/car_hire1.jpg" alt="" class="second-fade">
+            <img src="images/thumb5.png" alt="" class="first-fade">
+            <img src="images/thumb5.png" alt="" class="second-fade">
         </figure>
     </section>
-    <section class="iphone-parallax_box">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <div class="iphone-android_info-box">
-                        <h1><span>Free iPhone &amp;</span> <span>Android App</span></h1>
-                        <p><span>Renal Cars App is a car rental marketplace where travelers can rent any car they want,</span> <span>wherever they want it, from a community of local car owners throughout the US and Canada.</span></p>
-                        <span><a target="_blank" href="https://itunes.apple.com"><img src="assets/images/app_store.jpg" alt=""></a>
-							<a target="_blank" href="https://play.google.com/store"><img src="assets/images/google_play.jpg" alt=""></a></span>
-                        <div class="secondeffect"></div>
-                    </div>
+    {{--<section class="iphone-parallax_box">--}}
+        {{--<div class="container">--}}
+            {{--<div class="row">--}}
+                {{--<div class="col-sm-12">--}}
+                    {{--<div class="iphone-android_info-box">--}}
+                        {{--<h1><span>Free iPhone &amp;</span> <span>Android App</span></h1>--}}
+                        {{--<p><span>Renal Cars App is a bikerental marketplace where travelers can rent any bikethey want,</span> <span>wherever they want it, from a community of local bikeowners throughout the US and Canada.</span></p>--}}
+                        {{--<span><a target="_blank" href="https://itunes.apple.com"><img src="assets/images/app_store.jpg" alt=""></a>--}}
+							{{--<a target="_blank" href="https://play.google.com/store"><img src="assets/images/google_play.jpg" alt=""></a></span>--}}
+                        {{--<div class="secondeffect"></div>--}}
+                    {{--</div>--}}
 
-                </div>
-            </div>
-        </div>
-    </section>
+                {{--</div>--}}
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</section>--}}
 </main>
 <!-- // Content  -->

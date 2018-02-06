@@ -1,14 +1,14 @@
 <body class="page__home">
 <!-- Loader -->
-<div class="plash">
-    <div id="scene">
-        <span></span>
-        <div id="road">
-            <div id="stripes"></div>
-        </div>
-    </div>
-    <div class="loading">Loading<span>...</span></div>
-</div>
+{{--<div class="plash">--}}
+    {{--<div id="scene">--}}
+        {{--<span></span>--}}
+        {{--<div id="road">--}}
+            {{--<div id="stripes"></div>--}}
+        {{--</div>--}}
+    {{--</div>--}}
+    {{--<div class="loading">Loading<span>...</span></div>--}}
+{{--</div>--}}
 <!-- //Loader -->
 <!-- Header -->
 <header class="site-header">

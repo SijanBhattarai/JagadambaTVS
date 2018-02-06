@@ -1,29 +1,29 @@
 <!-- Footer -->
 <footer class="site-footer">
-    <section class="site-footer__top-panel">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-4">
-                    <div class="top-panel__info">
-                        <i class="icon-Cancellation"></i>
-                        <strong>Free cancellation</strong>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div class="top-panel__info">
-                        <i class="icon-commerce"></i>
-                        <strong>No credit card fees</strong>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div class="top-panel__info">
-                        <i class="icon-phone"></i>
-                        <strong>24/7 Call Center</strong>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    {{--<section class="site-footer__top-panel">--}}
+        {{--<div class="container">--}}
+            {{--<div class="row">--}}
+                {{--<div class="col-xs-12 col-sm-4">--}}
+                    {{--<div class="top-panel__info">--}}
+                        {{--<i class="icon-Cancellation"></i>--}}
+                        {{--<strong>Free cancellation</strong>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+                {{--<div class="col-xs-12 col-sm-4">--}}
+                    {{--<div class="top-panel__info">--}}
+                        {{--<i class="icon-commerce"></i>--}}
+                        {{--<strong>No credit card fees</strong>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+                {{--<div class="col-xs-12 col-sm-4">--}}
+                    {{--<div class="top-panel__info">--}}
+                        {{--<i class="icon-phone"></i>--}}
+                        {{--<strong>24/7 Call Center</strong>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</section>--}}
     <section  class="box-elements">
         <div class="container">
             <div class="row">
@@ -54,9 +54,9 @@
 
                         <span class="location_info">
 							<i class="icon-placeholder-for-map"></i>
-							<em>The Company Name Inc.</em>
-							<em>9870 St Vincent Place,</em>
-							<em>Glasgow, DC 45 Fr 45.</em> </span>
+							<em>JAGADAMBA MOTORS</em>
+							<em>KATHMANDU</em>
+							<em>BAGMATI, NEPAL.</em> </span>
                     </div>
                 </div>
             </div>
@@ -66,7 +66,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-md-6">
-                    <div class="copyright">&copy; 2017 | <a href="#">Privacy Policy</a> | <a href="#">Rental policy</a></div>
+                    <div class="copyright">&copy; 2017 TVS | <a href="#">Privacy Policy</a> | <a href="#">Rental policy</a></div>
                 </div>
                 <div class="col-xs-12 col-md-6">
                     <div class="social-list">

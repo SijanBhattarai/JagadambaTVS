@@ -2,3 +2,9 @@
     padding-top: 5px;
     height: 68px;
 }
+@media only screen and (max-width: 767px) {
+    .parallax_box h1 {
+        margin-bottom: 46px;
+        margin-top:-1px;
+    }
+}
