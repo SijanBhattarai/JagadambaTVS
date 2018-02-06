@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-{{--    <link rel="icon" href="{{asset('favicon.ico')}}">--}}
+    <link rel="icon" href="{{asset('assets/images/logo.jpg')}}">
     <title>TVS-Jagadamba</title>
     <!-- Bootstrap core CSS -->
     <link href="{{asset('css/plugins/bootstrap.min.css')}}" rel="stylesheet">
